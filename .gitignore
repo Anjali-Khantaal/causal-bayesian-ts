@@ -1,0 +1,13 @@
+# Virtual environments
+ml703_env/
+.env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
