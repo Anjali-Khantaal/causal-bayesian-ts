@@ -43,15 +43,6 @@ _Under Development_
 
 ---
 
-### Requirements
-
-To install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
----
-
 ### Team
 - Abdelrahman Elmay
 - Anish Ambreth
